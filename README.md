@@ -1,18 +1,19 @@
+---
 
+<h3 align="center">🔬 Research Interest & Long-term Vision</h3>
 
-&lt;h3 align="center"&gt;🔬 Research Interest & Long-term Vision&lt;/h3&gt;
-
-&lt;p align="center"&gt;
-  I'm a graduate student in &lt;strong&gt;Accounting&lt;/strong&gt; with a passion for the intersection of &lt;strong&gt;taxation, data analytics, and corporate governance&lt;/strong&gt;. &lt;br&gt;
+<p align="center">
+  I'm a graduate student in <strong>Accounting</strong> with a passion for the intersection of <strong>taxation, data analytics, and corporate governance</strong>. <br>
   My vision is to leverage big data and AI to enhance financial transparency in emerging markets.
-&lt;/p&gt;
+</p>
 
-&lt;p align="center"&gt;
-  🔭 &lt;strong&gt;Current:&lt;/strong&gt; Big Data Tax Collection (Golden Tax Phase III) & Earnings Quality &lt;br&gt;
-  🌱 &lt;strong&gt;Exploring:&lt;/strong&gt; Digital transformation of tax administration, Data asset valuation &lt;br&gt;
-  🎯 &lt;strong&gt;Goal:&lt;/strong&gt; Product Manager / Business Analyst in Internet Giants &lt;br&gt;
-  📫 &lt;strong&gt;Reach me:&lt;/strong&gt; [your.email@example.com](mailto:your.email@example.com)
-&lt;/p&gt;
+<p align="center">
+  🔭 <strong>Current:</strong> Big Data Tax Collection (Golden Tax Phase III) & Earnings Quality <br>
+  🌱 <strong>Exploring:</strong> Digital transformation of tax administration, Data asset valuation <br>
+  🎯 <strong>Goal:</strong> Product Manager / Business Analyst in Internet Giants <br>
+  📫 <strong>Reach me:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a>
+</p>
+
 
 ---
 
