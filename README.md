@@ -1,4 +1,4 @@
-## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/jinhang-yang/)
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/jinhang-yang/)𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲
 
 I'm rainee, an accounting student at HUST.  My vision is to leverage big data and AI to enhance financial transparency in emerging markets. 💪.
 
