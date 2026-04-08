@@ -1,16 +1,29 @@
 ## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/jinhang-yang/)
 
 
+<h3 align="center">🔬 Research Interest & Long-term Vision</h3>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
 
-I'm Jace Yang, a data science graduate student at Columbia. My career pursue is towards becoming a ["full stack data analyst"](https://towardsdatascience.com/why-i-choose-full-stack-data-analytics-as-my-career-path-d7b3986e0285) 💪.
+I'm rainee, an accounting student at HUST.  My vision is to leverage big data and AI to enhance financial transparency in emerging markets. 💪.
 
-My GitHub info:
+---
+<p align="center">
+  🔭 <strong>Current:</strong> Big Data Tax Collection (Golden Tax Phase III) & Earnings Quality <br>
+  🌱 <strong>Exploring:</strong> Digital transformation of tax administration, Data asset valuation <br>
+  🎯 <strong>Goal:</strong> Product Manager / Business Analyst in Internet Giants <br>
+  📫 <strong>Reach me:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a>
+</p>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jace-Yang&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
+### 📖 Detailed Portfolio
 
-Below are the DS projects I have done! (In English｜Chinese format 😄
+For more details about my research, projects, and CV:  
+👉 **[helightrain.github.io](https://helightrain.github.io)**
+
+---
+
+Below are the DS projects I have done! (In English｜Chinese format 😄)
 
 ---
 
@@ -38,22 +51,6 @@ Below are the DS projects I have done! (In English｜Chinese format 😄
 ### 🧙‍♂️ DL Project｜深度学习项目
 
 - [🪄BERT Pruning&Layer Drop｜BERT剪枝与模型简化分析]
-
----
-
-<h3 align="center">🔬 Research Interest & Long-term Vision</h3>
-
-<p align="center">
-  I'm a graduate student in <strong>Accounting</strong> with a passion for the intersection of <strong>taxation, data analytics, and corporate governance</strong>. <br>
-  My vision is to leverage big data and AI to enhance financial transparency in emerging markets.
-</p>
-
-<p align="center">
-  🔭 <strong>Current:</strong> Big Data Tax Collection (Golden Tax Phase III) & Earnings Quality <br>
-  🌱 <strong>Exploring:</strong> Digital transformation of tax administration, Data asset valuation <br>
-  🎯 <strong>Goal:</strong> Product Manager / Business Analyst in Internet Giants <br>
-  📫 <strong>Reach me:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a>
-</p>
 
 
 ---
@@ -87,15 +84,6 @@ Below are the DS projects I have done! (In English｜Chinese format 😄
 - Cross-BG vendor duplication detection using SQL
 
 **🏆 Honors:** National 2nd Prize in Market Survey Competition | **National Scholarship ×2**
-
-
-
----
-
-### 📖 Detailed Portfolio
-
-For more details about my research, projects, and CV:  
-👉 **[helightrain.github.io](https://helightrain.github.io)**
 
 ---
 
