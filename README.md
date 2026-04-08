@@ -1,37 +1,23 @@
 ## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/jinhang-yang/)
 
-
-<h3 align="center">🔬 Research Interest & Long-term Vision</h3>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
-
 I'm rainee, an accounting student at HUST.  My vision is to leverage big data and AI to enhance financial transparency in emerging markets. 💪.
 
----
-<p align="center">
   🔭 <strong>Current:</strong> Big Data Tax Collection (Golden Tax Phase III) & Earnings Quality <br>
   🌱 <strong>Exploring:</strong> Digital transformation of tax administration, Data asset valuation <br>
   🎯 <strong>Goal:</strong> Product Manager / Business Analyst in Internet Giants <br>
   📫 <strong>Reach me:</strong> <a href="mailto:your.email@example.com">your.email@example.com</a>
-</p>
----
-
-### 📖 Detailed Portfolio
 
 For more details about my research, projects, and CV:  
 👉 **[helightrain.github.io](https://helightrain.github.io)**
 
 ---
 
-Below are the DS projects I have done! (In English｜Chinese format 😄)
-
----
-
 ### :blue_book: Learning Notes｜学习笔记
 
-- [📒Full-stack DA notebook｜ML/DL/DE/DA全能选手养成ing](https://jace-yang.github.io/Full-Stack_Data-Analyst)
+ [📒Full-stack DA notebook｜ML/DL/DE/DA全能选手养成ing](https://jace-yang.github.io/Full-Stack_Data-Analyst)
 
 ---
+Below are the DS projects I have done! (In English｜Chinese format 😄)
 
 ### 📇 DA Projects｜数据分析与可视化项目
 
@@ -51,7 +37,6 @@ Below are the DS projects I have done! (In English｜Chinese format 😄)
 ### 🧙‍♂️ DL Project｜深度学习项目
 
 - [🪄BERT Pruning&Layer Drop｜BERT剪枝与模型简化分析]
-
 
 ---
 
