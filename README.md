@@ -1,3 +1,44 @@
+## 𝗛𝗶, 𝘁𝗵𝗲𝗿𝗲 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2.5%"/> [<img align="right" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="22px"/>](https://www.linkedin.com/in/jinhang-yang/)
+
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="375" height="240" />
+
+I'm Jace Yang, a data science graduate student at Columbia. My career pursue is towards becoming a ["full stack data analyst"](https://towardsdatascience.com/why-i-choose-full-stack-data-analytics-as-my-career-path-d7b3986e0285) 💪.
+
+My GitHub info:
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jace-Yang&count_private=true&show_icons=true&theme=tokyonight" alt="drawing" width="350"/>
+
+Below are the DS projects I have done! (In English｜Chinese format 😄
+
+---
+
+### :blue_book: Learning Notes｜学习笔记
+
+- [📒Full-stack DA notebook｜ML/DL/DE/DA全能选手养成ing](https://jace-yang.github.io/Full-Stack_Data-Analyst)
+
+---
+
+### 📇 DA Projects｜数据分析与可视化项目
+
+- [🚗EV Cars Customers Insight Report｜新能源汽车消费者洞察]
+
+
+### :bar_chart: DS Project｜数据挖掘与建模项目
+
+- [🪧AD Click Fraud Detaction｜广告点击中的舞弊甄别]
+
+
+### :floppy_disk: DE Project｜数仓与数据ETL项目
+
+- [🍱Yelp Fullstck-clone Web APP｜海外版大众点评前后端全栈]
+
+
+### 🧙‍♂️ DL Project｜深度学习项目
+
+- [🪄BERT Pruning&Layer Drop｜BERT剪枝与模型简化分析]
+
 ---
 
 <h3 align="center">🔬 Research Interest & Long-term Vision</h3>
